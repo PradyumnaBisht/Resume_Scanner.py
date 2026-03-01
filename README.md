@@ -1,4 +1,4 @@
-# Resume_Scanner.py
+<img width="288" height="724" alt="image" src="https://github.com/user-attachments/assets/b5dbd1e5-69d9-43c1-92c1-7d044231321f" /># Resume_Scanner.py
 
 # Resume Screening & Skill Assessment App
 
@@ -35,3 +35,6 @@ streamlit run app.py
 ## Author
 
 Pradyumna Bisht
+
+![Uploading Screenshot 2026-03-01 162748.png…]()
+
